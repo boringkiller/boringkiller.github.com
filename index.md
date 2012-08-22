@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome here!
+title: Hello World!
 tagline:Tiber 
 ---
 {% include JB/setup %}
