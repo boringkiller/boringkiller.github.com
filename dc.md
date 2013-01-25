@@ -12,6 +12,6 @@ description: "点菜"
 <br/>
 蚁窝简餐：<br/>
 外送电话：15168264457 15088634945（654945）<br/>
-附件说明：午餐十一点前下单
+附件说明：午餐十一点前下单<br/>
 菜谱:[蚁窝简餐](http://boringkiller.github.com/caipu/yojc.html)
 
