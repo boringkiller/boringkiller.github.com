@@ -5,5 +5,5 @@ description: ""
 ---
 {% include JB/setup %}
 
-helloo!
-ffff
+测试中文：
+![点菜1](/images/1.jpg)
